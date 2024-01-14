@@ -1,5 +1,5 @@
-- Hi, I’m @iveneverfeltathought
-- Im very new to programming and just happy to be here
+- Hi, I’m @aydenruth
+- Im new to programming and just happy to be here
 - I'm currently learning java
 - I want 2 start some new projects and learn from u all!
 - u can email me at: aydenr2@outlook.com
